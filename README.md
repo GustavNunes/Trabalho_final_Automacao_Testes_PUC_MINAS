@@ -2,26 +2,26 @@
 
 Trabalho realizado utilizando o Framework PlayWright utilizando a linguagem Python.
 
-<H2>Download do Projeto</H2>
+<h2>Download do Projeto</h2>
 
-```http
+```
   git clone https://github.com/GustavNunes/Trabalho_final_Automacao_Testes_PUC_MINAS.git
 ```
 
-<H2>Instalação do Playwright com Python</H2>
+<h2>Instalação do Playwright com Python</h2>
 
-```http
+```
   pip install pytest-playwright
 ```
-<H2>Instalação dos navegadores do Playwright</H2>
+<h2>Instalação dos navegadores do Playwright</h2>
 
-```http
+```
   playwright install
 ```
 
 <h2>Execução dos testes</h2>
 
-```http
+```
   pytest
 ```
 
@@ -29,18 +29,18 @@ Trabalho realizado utilizando o Framework PlayWright utilizando a linguagem Pyth
 
 <h4>Bash</h4>
 
-```http
+```
   PWDEBUG=1 pytest -s
 ```
 <h4>PowerShell</h4>
 
-```http
+```
   $env:PWDEBUG=1
   pytest -s
 ```
 <h4>Batch</h4>
 
-```http
+```
   set PWDEBUG=1
   pytest -s
 ```
