@@ -1,6 +1,6 @@
 # Trabalho final Automação de Testes PUC MINAS
 
-Trabalho realizado utilizando o Framework PlayWright utilizando a linguagem Python.
+Trabalho realizado utilizando o Framework PlayWright utilizando a linguagem Python com o design pattern Page Object Model.
 
 <h2>Download do Projeto</h2>
 
